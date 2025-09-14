@@ -7,41 +7,65 @@ I.S.H.A. is a versatile, AI-powered personal desktop assistant designed to strea
 I.S.H.A. offers a comprehensive set of features, categorized below for clarity:
 
 ##  2.1 System Control and Navigation
+
 > **Open System Settings:** Access various Windows settings, such as display, sound, notifications, power, storage, and more, using commands like "open display setting" or "open privacy setting." 
+
 >**File Management:** Launch File Explorer ("open file explorer") or navigate to the Downloads folder ("open download") for quick file access.
-> **System Actions:** Lock the screen ("lock screen"), minimize all windows ("minimize"), or open the Run command dialog ("open run command") with simple voice or text inputs. 
+
+> **System Actions:** Lock the screen ("lock screen"), minimize all windows ("minimize"), or open the Run command dialog ("open run command") with simple voice or text inputs.
+ 
 >**Shutdown and Restart:** Shutdown("shutdown") or restart ("restart") the computer instantly, enhancing user control over system operations. 
 
 ## 2.2 Application Management 
+
 > **LaunchApplications:** Open variety of Windows applications, including Calculator ("open calculator"), Notepad ("open notepad"), Microsoft Edge ("open edge"), Paint ("open paint"), and others listed in the assistant’s app dictionary. 
+
 > **Productivity Tools:** Start Microsoft Office applications like Word ("open ms word"), Excel ("open excel"), PowerPoint ("open power point"), and OneNote ("open onenote") for seamless workflow integration.  
+
 > **Gaming and Entertainment:** Launch the Xbox app ("open xbox") or Windows Game Bar ("open game bar") for gaming-related tasks. 
 
 ##  2.3 Web-Based Interactions 
+
 > **Browser Navigation:** Open websites like Google ("open google"), YouTube ("open youtube"), Instagram ("open instagram"), LinkedIn ("open linkedin"), and others with a single command. 
+
 > **Web Searches:** Perform searches on Google or YouTube by prompting the user for a query (e.g., "What do you want to search?" after "open google"), supporting both voice and text inputs. 
+
 > **Social Media Automation:** Log into Instagram ("instagram login") using Selenium for automated browser interactions, or send WhatsApp messages ("open whatsapp") with specified phone numbers and messages. 
+
 > **Content Downloading:** Access Pixabay for downloading pictures ("download pic ture") or a dedicated site for Instagram reel downloads ("download instagram reel").
 
 ## 2.5 Media Control 
+
 > **Time and Date:** Retrieve the current time ("what is the time") or date ("what is the date") with formatted outputs. 
+
 > **Weather Updates:** Fetch real-time weather information for any city ("weather") using an online API, with offline caching for recent queries. 
+
 > **Mathematical Calculations:** Solve mathematical expressions ("solve 2 + 2") or launch the Calculator app ("open calculator") for complex computations. 
+
 > **AI-Powered Queries:** Answer complex questions ("explain quantum computing") by querying the Google Gemini API, providing detailed responses when online. 
 
 ## 2.6 User Interaction
+
 > **Greetings and Responses:** Respond to greetings like "hello" or "good morning" with friendly replies, and answer queries about its identity ("what is your name"). 
+
 > **Clipboard and Text Management:** Open clipboard history ("open clipboard") or select all text ("select all") for efficient text handling. 
+
 > **Interactive GUI:** Display a list of available settings ("about all setting") or apps ("open apps") in popup windows for easy navigation. 
 
 ### 3 Applications in Computer-Based Work 
 
 ## I.S.H.A. significantly enhances computer-based workflows by providing a unified interface for managing tasks. Its key contributions include: 
+
 >**Time Efficiency:** Automates repetitive tasks like opening applications, navigating settings, or performing web searches, reducing manual effort. 
+
 >**Multimodal Interaction:** Supports both voice and text inputs, making it accessible for users with different preferences or hardware limitations (e.g., no microphone). 
+
 >**System Management:** Simplifies access to Windows settings and system controls, ideal for IT professionals or users managing complex configurations. 
+
 > **Productivity Boost:** Integrates with Microsoft Office and other tools, enabling quick document creation, data analysis, or presentation preparation. 
+
 > **Entertainment and Communication:** Facilitates media playback, social media interactions, and messaging, making it a versatile tool for both work and leisure. 
+
 > **Fallback Mechanisms:** Operates offline for local tasks (e.g., opening File Explorer or playing local music) and provides cached responses (e.g., weather) when internet is unavailable.
 
 ### 4 Conclusion 
