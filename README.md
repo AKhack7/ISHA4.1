@@ -1,9 +1,6 @@
 # ISHA4.1
 
-![images](https://github.com/user-attachments/assets/1c0c0b0f-ae5b-4ae7-8ca0-284326c95127)
 ![images](https://github.com/user-attachments/assets/f87890c8-ccda-4b70-92fc-316adee2b33c)
-![images](https://github.com/user-attachments/assets/7c99c2a2-8612-4112-bef1-2970115ed558)
-
 
 ##  1 Introduction
 I.S.H.A. is a versatile, AI-powered personal desktop assistant designed to streamline tasks and enhance productivity on Windows computers. Built with Python, it supports both voice and text-based commands, making it accessible via a user-friendly graphical interface or microphone input. Leveraging technologies like speech recognition, text-to speech, and web automation, I.S.H.A. can perform a wide range of tasks, from opening applications to fetching real-time information. This document outlines the capabilities of I.S.H.A. and its applications in computer-based work, making it an ideal tool for both personal and professional environments.
