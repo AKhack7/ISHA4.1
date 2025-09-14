@@ -1,10 +1,17 @@
 # ISHA4.1
 
+![images](https://github.com/user-attachments/assets/1c0c0b0f-ae5b-4ae7-8ca0-284326c95127)
+![images](https://github.com/user-attachments/assets/f87890c8-ccda-4b70-92fc-316adee2b33c)
+![images](https://github.com/user-attachments/assets/7c99c2a2-8612-4112-bef1-2970115ed558)
+
+
 ##  1 Introduction
 I.S.H.A. is a versatile, AI-powered personal desktop assistant designed to streamline tasks and enhance productivity on Windows computers. Built with Python, it supports both voice and text-based commands, making it accessible via a user-friendly graphical interface or microphone input. Leveraging technologies like speech recognition, text-to speech, and web automation, I.S.H.A. can perform a wide range of tasks, from opening applications to fetching real-time information. This document outlines the capabilities of I.S.H.A. and its applications in computer-based work, making it an ideal tool for both personal and professional environments.
 
 ## 2 Capabilities of I.S.H.A.
 I.S.H.A. offers a comprehensive set of features, categorized below for clarity:
+
+   ![ai-assistant-llm-big-data-600nw-2646651907](https://github.com/user-attachments/assets/fdfedc0e-bc2e-49a6-bb1d-de4337d20975)
 
 ##  2.1 System Control and Navigation
 
@@ -76,6 +83,8 @@ I.S.H.A. offers a comprehensive set of features, categorized below for clarity:
 ### 5 System Requirements
 ## To run Isha Assistant effectively, ensure your system meets the following minimum and recommended specifications. These are based on the Python environment and libraries used in the code, which support basic to advanced features like voice recognition, text-to-speech, and web automation.
 
+![images](https://github.com/user-attachments/assets/b5597cef-e4c5-44f4-a0e6-7c115727cc24)
+
 ## 5.1 Hardware Requirements
 
 > **Processor:** Dual-core processor (e.g., Intel Core i3 or equivalent) at 2 GHz or higher. Recommended: Quad-core (e.g., Intel Core i5 or better) for smoother performance with voice processing and multitasking.
@@ -89,6 +98,7 @@ I.S.H.A. offers a comprehensive set of features, categorized below for clarity:
 
 > **Internet Connection:** Required for online features like Gemini API queries, web searches, weather updates, YouTube playback, and social media automation. Offline mode supports local tasks (e.g., opening apps, file management, math calculations).
 
+![download](https://github.com/user-attachments/assets/2379d54c-c713-43a5-accc-fbee5695d67a)
 
 ## 5.2 Software Requirements
 > **Operating System:** Windows 10 or later (64-bit recommended). The code uses Windows-specific protocols (e.g., ms-settings: URIs) and libraries like pyttsx3 (SAPI5 engine), which are fully supported on Windows 10/11. Not compatible with Windows 7/8 or non-Windows OS without modifications.
